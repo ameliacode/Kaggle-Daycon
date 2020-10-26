@@ -1,2 +1,2 @@
-# Kaggle
-Kaggle related repository
+# Kaggle&Daycon
+Kaggle and Daycon related repository
